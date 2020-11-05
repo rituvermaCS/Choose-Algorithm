@@ -1,0 +1,11 @@
+Selection of the best features
+
+The selection of variables brings many advantages. 
+The model gets simpler, less code for error handling, and reduces the chances of the fitting, 
+and minimizes the introduction of bugs. The execution time of the models and memory consumption is reduced.
+
+In machine learning terminology, 
+Least absolute shrinkage and selection operator (Lasso) is a regression analysis method that accomplishes both variable selection and regularization in order to enhance the prediction accuracy and interpretability of the model. 
+It alters the model fitting process and selects only a subset of the covariates. 
+It achieves this by forcing certain coefficients to be set to zero, 
+and remove these coefficients in building the model.

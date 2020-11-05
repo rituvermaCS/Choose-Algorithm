@@ -1,0 +1,6 @@
+How to use stacking to choose the best possible algorithms?
+
+Every time you stumble upon a huge volume of data with thousands of features, 
+you will be wondering what would be the best algorithm to get accurate predictions on this data, 
+and whether to use all the features or reduce the feature space. Through this blog, 
+I will take you through the steps in finding the good features through lasso regression and getting the right algorithm through a technique called stacking.

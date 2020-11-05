@@ -1,0 +1,8 @@
+Data needs to be engineered to handle:
+
+1)Treat missing values
+2)Categorical variables: Remove rare labels
+3)Categorical variables encoding
+4)Engineer temporal variables
+5)Treat non-Gaussian distributed variables
+6)Feature scaling

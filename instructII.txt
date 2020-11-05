@@ -1,0 +1,16 @@
+Selection of the best algorithm
+
+Stacking refers to a method of joining the machine learning models, 
+similar to arranging a stack of plates at a restaurant. It combines the output of many models. 
+The performance of stacking is usually close to the best model and sometimes it can outperform the prediction performance of each individual model. 
+
+The objective is to get accurate predictions of the target variable, 
+with the most relevant explanatory variables. 
+We will do that by applying machine learning models such as Random Forest, Lasso regression, 
+and Gradient Boosting.
+Then let us stack the output of these individual models and pass it to a ridge regressor to compute the final predictions. 
+Stacking utilizes the strength of each individual model by using their output as input to the final model.
+
+We compare the performance of the stacking regressor with individual models’ performance. 
+The performance of stacking is usually close to the best model and sometimes it can outperform the prediction performance of each individual model. 
+The plots at the end of this article show the performance of the individual regressors and the stacked regressor on a given data set.

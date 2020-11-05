@@ -1,0 +1,9 @@
+Implementation
+
+For the implementation, we will use the house price dataset available on this kaggle page. 
+Scroll down to the bottom of the page, and click on the link ‘train.csv’, 
+and then click the ‘download’ blue button towards the right of the screen, to download the dataset. 
+Here the file is renamed as ‘houseprice.csv’ We build a machine learning model to predict the sale price of houses based on different explanatory variables describing various aspects of these houses. 
+We aim to minimize the difference between the real price and the price estimated by our model.
+
+So we are going to use the most interesting features chosen by the Lasso regression model and check the performance of each model individually and the stack perormance. Follow along.
